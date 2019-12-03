@@ -1,8 +1,7 @@
 {
   "name": "monsters-rolodex-exercise",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://fabiowood.github.io/udemy-course-react-developer-monsters-exercise",
+  "private": false,
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
