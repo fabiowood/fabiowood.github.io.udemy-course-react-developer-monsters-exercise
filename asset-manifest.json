@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/udemy-course-react-developer-monsters-exercise/static/css/main.7f7809a7.chunk.css",
+    "main.js": "/udemy-course-react-developer-monsters-exercise/static/js/main.28dc483c.chunk.js",
+    "main.js.map": "/udemy-course-react-developer-monsters-exercise/static/js/main.28dc483c.chunk.js.map",
+    "runtime-main.js": "/udemy-course-react-developer-monsters-exercise/static/js/runtime-main.eafeb767.js",
+    "runtime-main.js.map": "/udemy-course-react-developer-monsters-exercise/static/js/runtime-main.eafeb767.js.map",
+    "static/js/2.2d2a8028.chunk.js": "/udemy-course-react-developer-monsters-exercise/static/js/2.2d2a8028.chunk.js",
+    "static/js/2.2d2a8028.chunk.js.map": "/udemy-course-react-developer-monsters-exercise/static/js/2.2d2a8028.chunk.js.map",
+    "index.html": "/udemy-course-react-developer-monsters-exercise/index.html",
+    "precache-manifest.d5954b27da760cb35013e99b8ebfbdca.js": "/udemy-course-react-developer-monsters-exercise/precache-manifest.d5954b27da760cb35013e99b8ebfbdca.js",
+    "service-worker.js": "/udemy-course-react-developer-monsters-exercise/service-worker.js",
+    "static/css/main.7f7809a7.chunk.css.map": "/udemy-course-react-developer-monsters-exercise/static/css/main.7f7809a7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eafeb767.js",
+    "static/js/2.2d2a8028.chunk.js",
+    "static/css/main.7f7809a7.chunk.css",
+    "static/js/main.28dc483c.chunk.js"
+  ]
+}
